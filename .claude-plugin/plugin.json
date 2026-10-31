@@ -1,0 +1,20 @@
+{
+  "name": "iamcw",
+  "version": "0.1.0",
+  "description": A collection of reusable Agent Skills for Claude Code: the workflows, conventions and templates I use across my projects.",
+  "author": {
+    "name": "iamchriswick",
+    "url": "https://github.com/iamchriswick/skills"
+  },
+  "homepage": "https://github.com/iamchriswick/skills",
+  "repository": "https://github.com/iamchriswick/skills",
+  "license": "MIT",
+  "keywords": [
+    "claude code",
+    "skills",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/productivity/behavioral-guidelines"
+  ]
+}
