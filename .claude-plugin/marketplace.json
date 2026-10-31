@@ -1,0 +1,21 @@
+{
+  "name": "iamchriswick",
+  "owner": {
+    "name": "iamchriswick",
+    "url": "https://github.com/iamchriswick/skills"
+  },
+  "description": "iamchriswick's skills for Claude Code, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "iamchriswick-skills",
+      "source": "./",
+      "description": "A collection of reusable Agent Skills for Claude Code: the workflows, conventions and templates I use across my projects.",
+      "category": "engineering",
+      "keywords": [
+        "productivity",
+        "skills",
+        "engineering"
+      ]
+    }
+  ]
+}
